@@ -12,10 +12,10 @@
    
     		
 		* ## you will get result like this:
-			###Kspace of the image:
+			* ### Kspace of the image:
 		![Zero Position](Screenshots/KspaceUniform.png)
 
-			###Inverse of the image:
+			* ### Inverse of the image:
 		![Zero Position](Screenshots/InverseUniform.png)
 
     * ## To run The Nonuniformity & KSpace function:
