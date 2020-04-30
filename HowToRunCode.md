@@ -27,7 +27,7 @@
     	
 	* ## you will get these two results:
 		* ### Kspace& Inverse image:
-		![Zero Position](Screenshots/NonuniformityResults.png)
+		![Zero Position](Screenshots/NonuniformityResult.png)
 		
 
 
